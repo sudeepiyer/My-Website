@@ -1,6 +1,6 @@
 {
   "name": "My-website",
   "tagline": "",
-  "body": "@@ -0,0 +1,24 @@\r\n\r\n<html>\r\n    <head>\r\n        <meta charset=\"utf-8\">\r\n        <title>My Website</title>\r\n    </head>\r\n    <body>\r\n    <body bgcolor=\"#FF8040\"></body>\r\n    <h1>Search Engine</h1>\r\n     <form method=\"get\" action=\"http://www.google.com/search\">\r\n\r\n<div style=\"border:1px solid black;padding:4px;width:20em;\">\r\n<table border=\"0\" cellpadding=\"0\">\r\n<tr><td>\r\n<input type=\"text\"   name=\"q\" size=\"35\"\r\nmaxlength=\"200\" value=\"\" />\r\n<input type=\"submit\" value=\"Search\" /></td></tr>\r\n<tr><td align=\"center\" style=\"font-size:100%\">\r\n\r\n\r\n</td></tr></table>\r\n</div>\r\n\r\n</form> \r\n",
+  "body": "@@ -0,0 +1,24 @@ <meta charset=\"utf-8\"> <title>My Website</title>\r\n\r\n# Search Engine\r\n\r\n<form method=\"get\" action=\"http://www.google.com/search\">\r\n\r\n<div style=\"border:1px solid black;padding:4px;width:20em;\">\r\n\r\n<table border=\"0\" cellpadding=\"0\">\r\n\r\n<tbody>\r\n\r\n<tr>\r\n\r\n<td><input type=\"text\" name=\"q\" size=\"35\" maxlength=\"200\" value=\"\"> <input type=\"submit\" value=\"Search\"></td>\r\n\r\n</tr>\r\n\r\n</tbody>\r\n\r\n</table>\r\n\r\n</div>\r\n\r\n</form>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
